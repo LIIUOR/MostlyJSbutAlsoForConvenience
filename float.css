@@ -1,0 +1,56 @@
+h4{text-align: center;color: blue;}
+/* 189 стр */
+div{
+    width: 400px;
+    text-align: justify;
+    margin-top: 20px;
+}
+.div2 img{float: left;}
+.div3 img{float: right;}
+.div4 .img1{float: left;} .div4 .img2{float: right;}
+/* 190 стр */
+.div5{border: 1px solid red;} .div5 img{float: left;}
+/* 191 стр */
+.div6{border: 1px solid red;} .div6 p{margin-left: 30px;} .div6 img{float: left;}
+.div7{border: 1px solid red;} .div7 p{margin-left: 30px; border: 1px solid green;} .div7 img{float: left; opacity: 0.5;}
+/* 192 стр */
+.div8{border: 1px solid red;} .div8 p{margin-left: 30px;padding: 30px;border: 1px solid green;} .div8 img{float: left;opacity: 0.5;}
+.div9{border: 1px solid red;} .div9 p{margin-left: 30px;padding-left: 30px;border: 1px solid green;} .div9 img{float: left;opacity: 0.5;}
+/* 193 стр */
+.div10{border: 1px solid red;width: auto;} .div10 p{border: 1px solid green;} .div10 img{float: right;opacity: 0.5;}
+.div11{border: 1px solid red;width: auto;} .div11 p{border: 1px solid green;} .div11 img{float: right;opacity: 0.5;}
+/* 194 стр */
+.div12{border: 1px solid red;}
+.div13{border: 1px solid red;} .div13 img{float: left;}
+.div14{border: 1px solid red;margin-top: 0;margin-left: 500px;} .div14 img{float: right;}
+/* 195 стр */
+.div15{border: 1px solid red;height: 100px;width: auto;} .div15 img{float: right;}
+/* 196 стр */
+.div16{border: 1px solid red;width: auto;margin-top: 40px;} .div16 img{float: right;}
+.div17{border: 1px solid red;width: auto;margin-top: 120px;} .div17 img{float: left;}
+.div171{border: 1px solid red;width: auto;margin-top: 0;}
+.div18{border: 1px solid red;width: auto;margin-top: 30px;} .div18 img{float: left;}
+/* 198 стр */
+.div19{border: 1px solid red;width: auto;} .div19 img{float: left;} .div19.clearfix{clear: both;}
+/* 199 стр */
+.clearfix{clear: both;}
+.div20{border: 1px solid red;width: auto;} .div20 img{float: left;}
+/* 200 стр */
+.div21{border: 1px solid red;width: auto;} .div21 img{float: left;}
+.div22{border: 1px solid red;width: auto;margin-top: 30px;} .div22 img{float: left;}
+/* 201 стр */
+.div23{border: 1px solid red;width: auto;} .cdiv23{width: 200px;height: 100px;border: 1px solid green;margin-top: 0;}
+.div24{border: 1px solid red;width: auto;} .cdiv24{float: left;width: 200px;height: 100px;border: 1px solid green;margin-top: 0;}
+/* хз */
+.div25{border: 1px solid black;width: auto;height: 300px;padding: 20px;box-sizing: border-box;} .cdiv25{float: right;width: 70px;height: 70px;border: 1px solid green;margin-left: 20px;margin-bottom: 5px;}
+/* 202 стр */
+.div26{border: 1px solid red;width: auto;} .cdiv26{float: left;width: 200px;height: 100px;border: 1px solid green;margin-top: 0;}
+/* хз */
+.div27{border: 1px solid red;width: auto;} .cdiv27{border: 1px solid green;width: 200px;height: 100px;margin-top: 0;}
+/* 203 стр */
+.div28{border: 1px solid red;width: 500px;} .cdiv28{border: 1px solid green;width: 200px;height: 100px;margin-top: 0;}
+.div29{border: 1px solid red;width: 500px;} .cdiv29{border: 1px solid green;width: 200px;height: 100px;margin-top: 0;float: left;}
+.div30{border: 1px solid red;width: 500px;margin-top: 50px;} .cdiv30{border: 1px solid green;width: 200px;height: 100px;margin-top: 0;float: left;}
+/* 204 стр */
+.div31{border: 1px solid green;width: auto;height: 100px;} .cdiv31{text-align: center; border: 1px solid green;width: 100px;height: 50px;float: left;margin-top: 25px;margin-left: 20px;}
+.div32{border: 1px solid green;width: auto;height: 100px;} .cdiv32{text-align: center; border: 1px solid green;width: 100px;height: 50px;float: inline-end;margin-top: 25px;margin-right: 20px;}
