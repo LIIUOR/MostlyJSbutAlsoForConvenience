@@ -1,0 +1,173 @@
+#tu1{
+    letter-spacing:1px;
+}
+#tu2{
+    letter-spacing: 3px;
+}
+#tu3{
+    letter-spacing: -1px;
+}
+#tu4{
+    word-spacing: 3px;
+}
+#tu5{
+    word-spacing: 0px;
+}
+#tu6{
+    text-transform: uppercase;
+}
+#tu7 span{
+    text-transform: uppercase;
+}
+#tu8{
+    text-transform: capitalize;
+}
+#tu9{
+    text-align: justify;
+    text-align-last: right;
+}
+#tu10::first-letter{
+    color: red;
+    font-size: 27px;
+}
+#tu11::first-line{
+    color: red;
+}
+#tu11{
+    width: 300px;
+    text-align: justify;
+}
+#tu12{
+    width: 300px;
+    white-space: pre;
+    border: 1px solid red;
+}
+#tu13{
+    width: 200px;
+    white-space: nowrap;
+    border: 1px solid red;
+}
+#tu14{
+    width: 200px;
+    white-space: pre-wrap;
+    border: 1px solid red;
+}
+#tu15{
+    width: 200px;
+    white-space: pre-line;
+    border: 1px solid red;
+}
+#tu16{
+    tab-size: 16;
+    white-space: pre;
+    border: 1px solid black;
+}
+#tu17{
+    tab-size: 4;
+    white-space: pre;
+    border: 1px solid black;
+}
+#tu18{
+    width: 200px;
+    height: 100px;
+    overflow: visible;
+    border: 1px solid red;
+}
+#tu19{
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+    border: 1px solid red;
+}
+#tu20{
+    margin-top: 10px;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    border: 1px solid red;
+}
+#tu21{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    overflow: visible;
+    border: 1px solid red;
+}#tu21 img{height: 250px;opacity: 0.5;}
+#tu22{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    overflow: scroll;
+    border: 1px solid red;
+}#tu22 img{height: 250px;opacity: 0.5;}
+#tu23{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border: 1px solid red;
+}#tu23 img{height: 250px;opacity: 0.5;}
+#tu24{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border: 1px solid red;
+}#tu24 img{height: 250px;opacity: 0.5;}
+#tu25{
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    overflow-y: scroll;
+    border: 1px solid red;
+}
+#tu26{
+    margin-top: 10px;
+    width: 200px;
+    overflow: visible;
+    border: 1px solid red;
+}
+#tu27{
+    margin-top: 10px;
+    width: 200px;
+    overflow-x: scroll;
+    border: 1px solid red;
+}
+#tu28{
+    margin-top: 10px;
+    width: 200px;
+    overflow-x: hidden;
+    border: 1px solid red;
+}
+#tu29{
+    margin-top: 10px;
+    width: 200px;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    border: 1px solid red;
+}
+#tu30{
+    margin-top: 10px;
+    width: 200px;
+    border: 1px solid red;
+}#p1{word-break: break-all;}#p2{word-break: normal;}
+#tu31{
+    margin-top: 10px;
+    width: 200px;
+    border: 1px solid red;
+}#p3{overflow-wrap: break-word;}#p4{overflow-wrap: normal;}
+#tu32{
+    margin-top: 10px;
+    width: 300px;
+    border: 1px solid red;
+    text-align: justify;
+}#p5{hyphens: auto;}#p6{hyphens: auto;}
+#tu33{margin-top: 10px;text-decoration-line: underline;text-decoration-style: wavy;text-decoration-color: red;}
+#tu34{margin-top: 10px;text-decoration-line: underline;text-decoration-style: dotted;text-decoration-color: red;}
+#tu35{margin-top: 10px;text-decoration-line: underline;text-decoration-color: red;text-decoration-style: dashed;}
+#tu36{margin-top: 10px;text-decoration-line: underline;text-decoration-color: red;text-decoration-style: double;}
+#tu37{width: 80%; margin-top: 10px;column-count: 3;text-align: justify;column-width: 300px;column-gap: 30px;column-rule: 1px dotted grey;}
+#tu38{margin-top: 10px;}
+#tu38 p{user-select: none;}
